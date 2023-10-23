@@ -1,1 +1,0 @@
-temp1 = float(input("Første måling: "))
